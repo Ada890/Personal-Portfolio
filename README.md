@@ -69,5 +69,6 @@ Thank you for visiting!
 ### Contact Me
 
 - **Email**: adarshchoudhary890@gmail.com
-- **LinkedIn**: [Your LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/adarshkumar-choudhary-04380829a/))
+- **LinkedIn**: [Profile](https://www.linkedin.com/in/adarshkumar-choudhary-04380829a/)
+
   
