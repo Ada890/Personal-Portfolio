@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This website showcases my projects, skillsets, and experience in web development, designed to create an interactive user experience.
 
-![Skillset](Personal%20Portfolio/skillset.png)
+![Skillset](skillset.png)
 
 ## Description
 
